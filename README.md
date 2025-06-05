@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🙋🏻‍♂️ Introducing Myself
+## Nguyen P. Nguyen — Data Analyst
 
-<!--
-**nguyenpn1596/nguyenpn1596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Nguyen (Win), a Data Analyst with a strong background in data analysis and reporting, query optimization, database design, and data modelling.
 
-Here are some ideas to get you started:
+## 📊 What I Do:
+- Query and manipulate data using SQL
+- Generate reports and perform ad-hoc analysis with SQL and Excel
+- Develop insightful dashboards using Tableau and Power BI
+- Transform complex data into actionable insights for business decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects:
+Welcome to my portfolio — a curated collection of real-world projects demonstrating my analytical skills and technical expertise:
+- [World Life Expectancy](https://github.com/nguyenpn1596/World-Life-Expectancy)
+- [Sales & Training Analysis](https://github.com/nguyenpn1596/Sales-Training-and-Engagement-Analysis)
+
+## 🛠️ Tools:
+- Languages: SQL
+- Spreadsheets: Excel
+- Visualization: Tableau, Power BI
+
+### 👋🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyenpn96/)
