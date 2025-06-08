@@ -19,8 +19,10 @@ Welcome to my portfolio — a curated collection of real-world projects demonstr
 
 
 ## 🛠️ Tools:
-- Languages: SQL
+- Languages: SQL, Python
 - Spreadsheets: Excel
 - Visualization: Tableau, Power BI
+- Project Management: Jira
+- CMR: Salesforce
 
 ### 👋🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyenpn96/)
